@@ -19,9 +19,7 @@ dependencies:
 home: https://emby.media/
 icon: https://media.sys.truenas.net/apps/emby/icons/icon.png
 sources:
-  - https://emby.media/
   - https://mirror.gcr.io/emby/embyserver
-  - https://github.com/truenas/charts/tree/master/charts/emby
 keywords:
   - emby
   - media

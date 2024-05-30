@@ -114,7 +114,7 @@
             ],
             "sources": [
                 "https://emby.media/",
-                "https://hub.docker.com/r/emby/embyserver",
+                "https://mirror.gcr.io/emby/embyserver",
                 "https://github.com/truenas/charts/tree/master/charts/emby"
             ],
             "icon_url": "https://media.sys.truenas.net/apps/emby/icons/icon.png"

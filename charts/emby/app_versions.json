@@ -40,9 +40,7 @@
             "home": "https://emby.media/",
             "icon": "https://media.sys.truenas.net/apps/emby/icons/icon.png",
             "sources": [
-                "https://emby.media/",
-                "https://mirror.gcr.io/emby/embyserver",
-                "https://github.com/truenas/charts/tree/master/charts/emby"
+                "https://mirror.gcr.io/emby/embyserver"
             ],
             "keywords": [
                 "emby",
@@ -1096,7 +1094,7 @@
             "home": "https://emby.media/",
             "icon": "https://media.sys.truenas.net/apps/emby/icons/icon.png",
             "sources": [
-                "https://hub.docker.com/r/emby/embyserver"
+                "https://mirror.gcr.io/emby/embyserver"
             ],
             "keywords": [
                 "emby",

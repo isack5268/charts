@@ -1,5 +1,5 @@
 image:
-  repository: jc21/nginx-proxy-manager
+  repository: mirror.gcr.io/jc21/nginx-proxy-manager
   pullPolicy: IfNotPresent
   tag: 2.11.2
 resources:
